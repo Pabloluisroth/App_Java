@@ -1,0 +1,5 @@
+Nombre: javier
+Edad: 58
+Altura: 174
+Peso: 22
+Ubicacion: sevillaEste

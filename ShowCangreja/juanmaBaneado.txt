@@ -1,0 +1,5 @@
+Nombre: juanma
+Edad: 100
+Altura: 180
+Peso: 20
+Ubicacion: Kentia

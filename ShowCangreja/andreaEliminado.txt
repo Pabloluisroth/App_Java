@@ -1,0 +1,5 @@
+Nombre: andrea
+Edad: 55
+Altura: 150
+Peso: 35
+Ubicacion: bermejales

@@ -1,0 +1,5 @@
+Nombre: manuel
+Edad: 53
+Altura: 186
+Peso: 22
+Ubicacion: torreblanca

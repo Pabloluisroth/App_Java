@@ -1,0 +1,5 @@
+Nombre: paco
+Edad: 160
+Altura: 160
+Peso: 23
+Ubicacion: suCasa

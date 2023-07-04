@@ -1,0 +1,5 @@
+Nombre: rixi
+Edad: 67
+Altura: 168
+Peso: 21
+Ubicacion: sevillaEste

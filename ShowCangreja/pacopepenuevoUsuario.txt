@@ -1,0 +1,5 @@
+Nombre: pacopepe
+Edad: 35
+Altura: 65
+Peso: 165
+Ubicacion: huelva

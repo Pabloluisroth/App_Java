@@ -1,0 +1,5 @@
+Nombre: quile
+Edad: 60
+Altura: 180
+Peso: 19
+Ubicacion: alcosa

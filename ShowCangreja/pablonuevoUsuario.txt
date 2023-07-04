@@ -1,0 +1,5 @@
+Nombre: pablo
+Edad: 36
+Altura: 66
+Peso: 174
+Ubicacion: bormujos
